@@ -1,4 +1,4 @@
-# template-minimal-digital-ink
+# template-voxelize
 
 This project was created using:
 
