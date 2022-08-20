@@ -35,10 +35,10 @@
 			"panel_data": {
 				"camera": {
 					"position": {
-						"x": 158.3315786006846,
-						"y": -610.4237564790477
+						"x": 275,
+						"y": 50
 					},
-					"zoom": 0.4861816925048829
+					"zoom": 0.837999807739258
 				},
 				"history": {
 					"2": {
@@ -131,6 +131,13 @@
 							"y": -684.3833340594184
 						},
 						"zoom": 0.796363464355469
+					},
+					"425": {
+						"position": {
+							"x": 275,
+							"y": 50
+						},
+						"zoom": 0.837999807739258
 					},
 					"461": {
 						"position": {
@@ -251,7 +258,7 @@
 		"split_mode": "horizontal"
 	},
 	"currentNodes": [
-		"/voxelizedObject",
+		"/voxelizedObject/eventsNetwork1",
 		"/",
 		"/",
 		"/",
@@ -263,7 +270,6 @@
 	"navigationHistory": {
 		"nodePaths": {
 			"1": [
-				"/",
 				"/voxelizedObject",
 				"/",
 				"/cameras",
@@ -362,7 +368,8 @@
 				"/",
 				"/voxelizedObject",
 				"/",
-				"/voxelizedObject"
+				"/voxelizedObject",
+				"/voxelizedObject/eventsNetwork1"
 			],
 			"2": [],
 			"3": [],
