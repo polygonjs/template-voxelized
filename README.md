@@ -1,4 +1,4 @@
-![Painted Globe Website Template](https://github.com/polygonjs/template-voxelized/blob/main/public/screenshots/screenshot1.jpg?raw=true)
+![Voxelized Website Template](https://github.com/polygonjs/template-voxelized/blob/main/public/screenshots/screenshot1.jpg?raw=true)
 ![Screenshot from Polygonjs](https://github.com/polygonjs/template-voxelized/blob/main/public/screenshots/screenshot2.jpg?raw=true)
 
 [Live Demo](https://market.polygonjs.com/gui/templates/voxelized)
