@@ -1097,10 +1097,10 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
-"@polygonjs/polygonjs@1.2.22", "@polygonjs/polygonjs@^1.2.21":
-  version "1.2.22"
-  resolved "https://registry.yarnpkg.com/@polygonjs/polygonjs/-/polygonjs-1.2.22.tgz#4ef57ad3979a1142849ee2c6331f486babaac91a"
-  integrity sha512-R4K8ozIoh25v9DxO6irPeNyDn38mHtrxvRQzlfZj4EKepX2kduuXVsBd5Qn13fxSkZkSyE6+kFSV/3phaka+MA==
+"@polygonjs/polygonjs@1.2.23", "@polygonjs/polygonjs@^1.2.23":
+  version "1.2.23"
+  resolved "https://registry.yarnpkg.com/@polygonjs/polygonjs/-/polygonjs-1.2.23.tgz#165791b374b6533ed2d0aa095398c06f8d4986c5"
+  integrity sha512-lETSuSr4PZQll+fv7kE117EvNlEIPHqRw7ezYW9mDXTxfuOAzzQgvrDTNIDPjHR4/+yaDIf1uI69ECRNFhSirA==
   dependencies:
     "@dimforge/rapier3d" "0.9.0"
     "@jscad/modeling" "2.9.3"
@@ -1120,12 +1120,12 @@
     tone "14.7.77"
     xatlas-web "0.1.0"
 
-"@polygonjs/vue3@^1.2.21-2":
-  version "1.2.21-2"
-  resolved "https://registry.yarnpkg.com/@polygonjs/vue3/-/vue3-1.2.21-2.tgz#582051d2bc5a1b0389fb412c135c14ccbdf89607"
-  integrity sha512-du7WEM8muMjlnHVP1hq6IwPE0NJldpHaRgqOPX8j1riOn5HkzhGoaEoX/QDdSTrPF+v43tTTFnmqpxV0cSvj9Q==
+"@polygonjs/vue3@^1.2.23-1":
+  version "1.2.23-1"
+  resolved "https://registry.yarnpkg.com/@polygonjs/vue3/-/vue3-1.2.23-1.tgz#5727bb91077981d030389d9d6bffa4f9fe2e69cd"
+  integrity sha512-APCLZNRTz6b+KuEhdxTV0oVdbvmDEVB2fdxc3brAXtZ2tSV46VUn/BxDhmdR96c7oxZJojmgLpPyPuBdJe1uSQ==
   dependencies:
-    "@polygonjs/polygonjs" "^1.2.21"
+    "@polygonjs/polygonjs" "^1.2.23"
     core-js "^3.8.3"
     vue "^3.2.13"
 
@@ -5083,12 +5083,12 @@ pkg-dir@^4.1.0:
   dependencies:
     find-up "^4.0.0"
 
-polygonjs-editor@1.2.22-1:
-  version "1.2.22-1"
-  resolved "https://registry.yarnpkg.com/polygonjs-editor/-/polygonjs-editor-1.2.22-1.tgz#5be4db76a75598b95a3ebbedcf16049289cc23d6"
-  integrity sha512-3RW7rFuTxff5OArpam8qy++vSDTjyojhz/4Euz304AHXDgo3k2NyYQvaB8CqCf1bhc/COJoxcMZ7eWlGneMldQ==
+polygonjs-editor@1.2.23-2:
+  version "1.2.23-2"
+  resolved "https://registry.yarnpkg.com/polygonjs-editor/-/polygonjs-editor-1.2.23-2.tgz#e86a30a44fbb8fb7025d4bbe57894659e9a027f9"
+  integrity sha512-SS6u0m45xFfOLIKIAtV9eaJKTmj6zeE5cNV1gTx69yJ8+m79kr0xQhaitRS36AFSBjVa7sgbHFQiFA0aSSHuuw==
   dependencies:
-    "@polygonjs/polygonjs" "1.2.22"
+    "@polygonjs/polygonjs" "1.2.23"
     btoa "1.2.1"
     chalk "4.1.0"
     cors "2.8.5"
