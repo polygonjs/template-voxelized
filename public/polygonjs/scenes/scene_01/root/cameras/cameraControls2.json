@@ -6,17 +6,12 @@
 			"params": {
 				"allowPan": 0,
 				"allowZoom": 0,
-				"polarAngleRange": [
-					0.4,
-					"$PI*0.6"
-				]
+				"polarAngleRange": [0.4, "$PI*0.6"]
 			}
 		}
 	},
 	"params": {
 		"node": "cameraOrbitControls1"
 	},
-	"inputs": [
-		"perspectiveCamera_MAIN"
-	]
+	"inputs": ["perspectiveCamera_MAIN"]
 }

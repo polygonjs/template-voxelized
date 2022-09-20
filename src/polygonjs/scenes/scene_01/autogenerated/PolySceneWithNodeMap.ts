@@ -332,6 +332,7 @@ export interface PolySceneProps_scene_01 {
   "voxelizedObject-hierarchy1--addChildMode"?: ParamValueSerializedTypeMap["integer"];
   "voxelizedObject-transform1--applyOn"?: ParamValueSerializedTypeMap["integer"];
   "voxelizedObject-transform1--objectMode"?: ParamValueSerializedTypeMap["integer"];
+  "voxelizedObject-transform1--objectTransformSpace"?: ParamValueSerializedTypeMap["integer"];
   "voxelizedObject-transform1--group"?: ParamValueSerializedTypeMap["string"];
   "voxelizedObject-transform1--rotationOrder"?: ParamValueSerializedTypeMap["integer"];
   "voxelizedObject-transform1--t"?: ParamValueSerializedTypeMap["vector3"];
@@ -515,6 +516,10 @@ export interface PolySceneProps_scene_01 {
   "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--useFog"?: ParamValueSerializedTypeMap["boolean"];
   "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--shadowPCSS"?: ParamValueSerializedTypeMap["boolean"];
   "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--shadowPCSSFilterSize"?: ParamValueSerializedTypeMap["float"];
+  "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--overrideCustomMaterials"?: ParamValueSerializedTypeMap["boolean"];
+  "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--createCustomMatDistance"?: ParamValueSerializedTypeMap["boolean"];
+  "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--createCustomMatDepth"?: ParamValueSerializedTypeMap["boolean"];
+  "voxelizedObject-MAT-meshStandardBuilder_INSTANCES--createCustomMatDepthDOF"?: ParamValueSerializedTypeMap["boolean"];
   "voxelizedObject-eventsNetwork1-raycast1--mode"?: ParamValueSerializedTypeMap["integer"];
   "voxelizedObject-eventsNetwork1-raycast1--tmouse"?: ParamValueSerializedTypeMap["boolean"];
   "voxelizedObject-eventsNetwork1-raycast1--mouse"?: ParamValueSerializedTypeMap["vector2"];
