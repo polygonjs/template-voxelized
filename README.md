@@ -1,7 +1,7 @@
 ![Voxelized Website Template](https://github.com/polygonjs/template-voxelized/blob/main/public/screenshots/screenshot1.jpg?raw=true)
 ![Screenshot from Polygonjs](https://github.com/polygonjs/template-voxelized/blob/main/public/screenshots/screenshot2.jpg?raw=true)
 
-[Live Demo](https://market.polygonjs.com/gui/templates/voxelized)
+[Create interactive 3D With Polygonjs](https://polygonjs.com) --- [View On Polygonjs Marketplace](https://market.polygonjs.com/gui/templates/voxelized) --- [Live Demo](https://market.polygonjs.com/gui/templates/voxelized/fullscreen)
 
 # template-voxelize
 
